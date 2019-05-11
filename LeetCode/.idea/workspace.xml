@@ -2,45 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5aa8a34-4426-4726-a606-600cad3ef82b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../360/src/Baidu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../360/src/Baidu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../360/src/Num.java" beforeDir="false" afterPath="$PROJECT_DIR$/../360/src/Num.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../360/src/SimpleHappenBefore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../360/src/SimpleHappenBefore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../360/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../360/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../360/src/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../360/src/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../360/src/Test360.java" beforeDir="false" afterPath="$PROJECT_DIR$/../360/src/Test360.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HUAWEI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HUAWEI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HUAWEI/src/HUAWEI10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HUAWEI/src/HUAWEI10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HuaweiTest4-11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HuaweiTest4-11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JD/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaSearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaSearch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaTest/out/production/JavaTest/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaTest/out/production/JavaTest/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaTest/out/production/JavaTest/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaTest/out/production/JavaTest/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaTest/out/production/JavaTest/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaTest/out/production/JavaTest/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaTest/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaTest/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode015.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Find.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeNC5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Meituan/src/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Meituan/src/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Regex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Regex/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/Singleton/EagerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/src/Singleton/EagerSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/Singleton/LazySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/src/Singleton/LazySingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summergit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../summergit/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summergit/src/main/java/com/example/summergit/Action/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summergit/src/main/java/com/example/summergit/Action/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summergit/src/main/java/com/example/summergit/Action/Book1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summergit/src/main/java/com/example/summergit/Action/Book1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summergit/src/main/java/com/example/summergit/Action/GetBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summergit/src/main/java/com/example/summergit/Action/GetBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summergit/src/main/java/com/example/summergit/Dao/BookDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summergit/src/main/java/com/example/summergit/Dao/BookDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summergit/src/main/java/com/example/summergit/Dao/BookDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summergit/src/main/java/com/example/summergit/Dao/BookDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summergit/src/main/java/com/example/summergit/LogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summergit/src/main/java/com/example/summergit/LogAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summergit/src/main/java/com/example/summergit/Service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summergit/src/main/java/com/example/summergit/Service/BookService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summergit/src/main/java/com/example/summergit/Service/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summergit/src/main/java/com/example/summergit/Service/BookServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summergit/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../summergit/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summergit/src/test/java/com/example/summergit/JdbcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summergit/src/test/java/com/example/summergit/JdbcTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summergit/src/test/java/com/example/summergit/SummergitApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summergit/src/test/java/com/example/summergit/SummergitApplicationTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,11 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode014.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
+            <state relative-caret-position="349">
               <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode015.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/LeetCode012.java" />
         <option value="$PROJECT_DIR$/src/LeetCode013.java" />
         <option value="$PROJECT_DIR$/src/LeetCode014.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode015.java" />
       </list>
     </option>
   </component>
@@ -128,8 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,12 +120,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557387135242" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557584538609" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,9 +142,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeetCode007">
+  <component name="RunManager" selected="Application.LeetCode015">
     <configuration name="LeetCode007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode007" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode015" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -187,13 +171,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCodeNC4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeNC4" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LeetCodeNC5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCodeNC5" />
       <module name="LeetCode" />
@@ -202,19 +179,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LeetCodeNC4" />
       <item itemvalue="Application.LeetCodeNC5" />
       <item itemvalue="Application.LeetCode1021" />
       <item itemvalue="Application.LeetCode929" />
       <item itemvalue="Application.LeetCode007" />
+      <item itemvalue="Application.LeetCode015" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode015" />
         <item itemvalue="Application.LeetCode007" />
         <item itemvalue="Application.LeetCode929" />
         <item itemvalue="Application.LeetCode1021" />
         <item itemvalue="Application.LeetCodeNC5" />
-        <item itemvalue="Application.LeetCodeNC4" />
       </list>
     </recent_temporary>
   </component>
@@ -240,16 +217,19 @@
       <workItem from="1557290864197" duration="19141000" />
       <workItem from="1557368499346" duration="2005000" />
       <workItem from="1557408838432" duration="613000" />
+      <workItem from="1557465287213" duration="298000" />
+      <workItem from="1557581293486" duration="3208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45050000" />
+    <option name="totallyTimeSpent" value="48556000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21709532" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22314675" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -592,8 +572,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode014.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
+        <state relative-caret-position="349">
           <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode015.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
