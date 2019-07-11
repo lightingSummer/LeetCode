@@ -5,7 +5,7 @@ package dp;
  * @date       ：2019/7/4 0004
  * @description：
  */
-public class LeetCode091 {
+public class 分割整数构成字母字符串091 {
     public int numDecodings(String s) {
         if (s == null || s.length() == 0) {
             return 0;

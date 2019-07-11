@@ -5,7 +5,7 @@ package dp;
  * @date       ：2019/7/9 0009
  * @description：
  */
-public class Package0_1 {
+public class 背包问题01 {
     public static void main(String[] args) {
         int[] weights = {2, 3, 4, 5};
         int[] values = {3, 4, 5, 6};

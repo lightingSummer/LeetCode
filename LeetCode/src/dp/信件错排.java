@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @description： 信件错排  n封信 所有人都收到错误的信的情况
  * 前i封信错误 i n-1种情况 1.k 放在n的位子D(n-2) 2. D(n-1)
  */
-public class WrongArrangementOfLetter {
+public class 信件错排 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 

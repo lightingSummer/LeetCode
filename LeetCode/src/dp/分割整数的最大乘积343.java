@@ -5,7 +5,7 @@ package dp;
  * @date       ：2019/7/3 0003
  * @description： 分割整数，求最大的乘积
  */
-public class LeetCode343 {
+public class 分割整数的最大乘积343 {
     public int integerBreak(int n) {
         int[] dp = new int[n + 1];
         dp[1] = 1;

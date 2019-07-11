@@ -5,7 +5,7 @@ package dp;
  * @date       ：2019/7/10 0010
  * @description：
  */
-public class LeetCode322 {
+public class 找零钱的最少硬币数322 {
     public int coinChange(int[] coins, int amount) {
         if (amount <= 0 || coins == null || coins.length == 0) {
             return 0;

@@ -5,7 +5,7 @@ package dp;
  * @date       ：2019/6/26 0026
  * @description： 跑楼梯 一次一步或者两步
  */
-public class LeetCode070 {
+public class 斐波那契数列070 {
     public int climbStairs(int n) {
         if (n <= 2) return n;
         int step1 = 1;

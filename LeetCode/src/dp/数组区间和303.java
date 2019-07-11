@@ -5,10 +5,10 @@ package dp;
  * @date       ：2019/7/3 0003
  * @description：
  */
-public class LeetCode303 {
+public class 数组区间和303 {
     private int[] nums;
 
-    public LeetCode303(int[] nums) {
+    public 数组区间和303(int[] nums) {
         this.nums = nums;
         for (int i = 1; i < nums.length; i++) {
             nums[i] += nums[i - 1];

@@ -5,7 +5,7 @@ package dp;
  * @date       ：2019/7/4 0004
  * @description： 最长上升子序列
  */
-public class LeetCode300 {
+public class 最长递增子序列300 {
     public static void main(String[] args) {
         int[] nums = {1, 3, 6, 7, 9, 4, 10, 5, 6};
         System.out.println(lengthOfLIS(nums));

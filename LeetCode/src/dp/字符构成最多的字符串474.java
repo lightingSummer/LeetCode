@@ -14,7 +14,7 @@ package dp;
  * 链接：https://leetcode-cn.com/problems/ones-and-zeroes
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class LeetCode474 {
+public class 字符构成最多的字符串474 {
     public int findMaxForm(String[] strs, int m, int n) {
         int[][] dp = new int[m + 1][n + 1];
         for (String str : strs) {

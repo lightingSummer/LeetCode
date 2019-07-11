@@ -16,7 +16,7 @@ package dp;
  * sum(P) + sum(N) + sum(P) - sum(N) = target + sum(P) + sum(N)
  *                        2 * sum(P) = target + sum(nums)
  */
-public class LeetCode494 {
+public class 改变一组数的正负号使得它们的和为一给定数494 {
     public int findTargetSumWays(int[] nums, int S) {
         int sum = 0;
         for (int num : nums) {

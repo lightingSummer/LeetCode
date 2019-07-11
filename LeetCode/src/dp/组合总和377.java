@@ -32,7 +32,7 @@ import java.util.Arrays;
  *
  * 涉及顺序的完全背包。
  */
-public class LeetCode377 {
+public class 组合总和377 {
     public int combinationSum4(int[] nums, int target) {
         int[] dp = new int[target + 1];
         dp[0] = 1;

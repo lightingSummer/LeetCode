@@ -5,7 +5,7 @@ package dp;
  * @date       ：2019/6/26 0026
  * @description：
  */
-public class LeetCode198 {
+public class 抢劫198 {
     public int rob(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;

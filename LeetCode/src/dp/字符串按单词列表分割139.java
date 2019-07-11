@@ -21,7 +21,7 @@ import java.util.List;
  * dict 中的单词没有使用次数的限制，因此这是一个完全背包问题。
  * 该问题涉及到字典中单词的使用顺序，因此可理解为涉及顺序的完全背包问题。
  */
-public class LeetCode139 {
+public class 字符串按单词列表分割139 {
     public boolean wordBreak(String s, List<String> wordDict) {
         int n = s.length();
         boolean[] dp = new boolean[n + 1];

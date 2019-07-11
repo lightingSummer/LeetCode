@@ -13,7 +13,7 @@ import java.util.Comparator;
  * 给定一个对数集合，找出能够形成的最长数对链的长度。你不需要用到所有的数对
  * 你可以以任何顺序选择其中的一些数对来构造。
  */
-public class LeetCode646 {
+public class 一组整数对能够构成的最长链646 {
     public int findLongestChain(int[][] pairs) {
         if (pairs == null || pairs.length == 0) {
             return 0;

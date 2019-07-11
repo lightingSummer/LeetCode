@@ -5,7 +5,7 @@ package dp;
  * @date       ：2019/6/26 0026
  * @description： 环形屋子分布 分开计算0 n-2  和 1 n-1即可
  */
-public class LeetCode213 {
+public class 抢劫213 {
     public int rob(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;

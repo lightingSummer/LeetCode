@@ -7,7 +7,7 @@ import java.util.Arrays;
  * @date       ：2019/7/5 0005
  * @description：
  */
-public class LeetCode376 {
+public class 最长摆动子序列376 {
     public int wiggleMaxLength(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;
