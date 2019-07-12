@@ -1,4 +1,4 @@
-package Serach.bfs;
+package serach.bfs;
 
 import javafx.util.Pair;
 
