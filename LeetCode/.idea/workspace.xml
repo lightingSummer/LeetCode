@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5aa8a34-4426-4726-a606-600cad3ef82b" name="Default Changelist" comment="" />
+    <list default="true" id="f5aa8a34-4426-4726-a606-600cad3ef82b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/linkedList/分隔链表725.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/linkedList/分隔链表725.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +18,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/linkedList/链表元素按奇偶聚集328.java">
+        <entry file="file://$PROJECT_DIR$/src/hash/最长连续序列128.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="326">
+              <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,12 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Serach/bfs/单词接龙127.java" />
-        <option value="$PROJECT_DIR$/src/dp/最长公共连续子串.java" />
-        <option value="$PROJECT_DIR$/src/serach/dfs/查找最大的连通面积695.java" />
-        <option value="$PROJECT_DIR$/src/serach/dfs/矩阵中的连通分量数目200.java" />
-        <option value="$PROJECT_DIR$/src/serach/dfs/好友关系的连通分量数目547.java" />
-        <option value="$PROJECT_DIR$/src/serach/dfs/填充封闭区域130.java" />
         <option value="$PROJECT_DIR$/src/serach/dfs/能到达的太平洋和大西洋的区域417.java" />
         <option value="$PROJECT_DIR$/src/serach/backTracking/数字键盘组合17.java" />
         <option value="$PROJECT_DIR$/src/serach/backTracking/Main.java" />
@@ -97,6 +97,12 @@
         <option value="$PROJECT_DIR$/src/linkedList/回文链表234.java" />
         <option value="$PROJECT_DIR$/src/linkedList/分隔链表725.java" />
         <option value="$PROJECT_DIR$/src/linkedList/链表元素按奇偶聚集328.java" />
+        <option value="$PROJECT_DIR$/src/sort/归并k个有序数组.java" />
+        <option value="$PROJECT_DIR$/src/sort/FilterLog.java" />
+        <option value="$PROJECT_DIR$/src/hash/两数之和为给定值01.java" />
+        <option value="$PROJECT_DIR$/src/hash/存在重复元素217.java" />
+        <option value="$PROJECT_DIR$/src/hash/最长和谐序列594.java" />
+        <option value="$PROJECT_DIR$/src/hash/最长连续序列128.java" />
       </list>
     </option>
   </component>
@@ -114,7 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,19 +136,20 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="hash" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563286790333" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563373148008" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -158,13 +164,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.分隔链表725">
-    <configuration name="单词拆分140" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="serach.dfs.单词拆分140" />
+  <component name="RunManager" selected="Application.两数之和为给定值01">
+    <configuration name="两数之和为给定值01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.两数之和为给定值01" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="serach.dfs.*" />
+          <option name="PATTERN" value="hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,19 +191,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="有效的完全平方数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.有效的完全平方数" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="分隔链表725" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedList.分隔链表725" />
       <module name="LeetCode" />
@@ -211,12 +204,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="regex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedList.regex" />
+    <configuration name="FilterLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.FilterLog" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedList.*" />
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="归并k个有序数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.归并k个有序数组" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,19 +231,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.有效的完全平方数" />
-      <item itemvalue="Application.单词拆分140" />
-      <item itemvalue="Application.regex" />
       <item itemvalue="Application.回文链表234" />
       <item itemvalue="Application.分隔链表725" />
+      <item itemvalue="Application.归并k个有序数组" />
+      <item itemvalue="Application.FilterLog" />
+      <item itemvalue="Application.两数之和为给定值01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.两数之和为给定值01" />
+        <item itemvalue="Application.FilterLog" />
+        <item itemvalue="Application.归并k个有序数组" />
         <item itemvalue="Application.分隔链表725" />
         <item itemvalue="Application.回文链表234" />
-        <item itemvalue="Application.regex" />
-        <item itemvalue="Application.单词拆分140" />
-        <item itemvalue="Application.有效的完全平方数" />
       </list>
     </recent_temporary>
   </component>
@@ -285,12 +291,14 @@
       <workItem from="1562982471834" duration="24743000" />
       <workItem from="1563159804542" duration="142000" />
       <workItem from="1563160004604" duration="96000" />
-      <workItem from="1563180725881" duration="34422000" />
+      <workItem from="1563180725881" duration="34983000" />
+      <workItem from="1563327831715" duration="7417000" />
+      <workItem from="1563370533243" duration="2477000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="267074000" />
+    <option name="totallyTimeSpent" value="277529000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -305,7 +313,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49835527" visible="true" weight="0.18078668" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49835527" visible="true" weight="0.15355521" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -315,7 +323,7 @@
       <window_info anchor="bottom" id="Statistic" order="0" weight="0.32894737" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.54605263" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.33552632" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.28125" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -325,7 +333,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.34539473" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32894737" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32894737" />
-      <window_info anchor="bottom" id="Debug" order="13" weight="0.4786184" />
+      <window_info anchor="bottom" id="Debug" order="13" weight="0.31743422" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -372,53 +380,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="206" column="35" lean-forward="true" selection-start-line="206" selection-start-column="35" selection-end-line="206" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/serach/backTracking/分割回文串178.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/serach/backTracking/数独37.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/serach/bfs/单词接龙127.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1196">
-          <caret line="52" column="13" lean-forward="true" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/serach/dfs/查找最大的连通面积695.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/serach/dfs/矩阵中的连通分量数目200.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/serach/dfs/好友关系的连通分量数目547.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
@@ -712,16 +673,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/regex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/regex.java" />
     <entry file="file://$PROJECT_DIR$/src/linkedList/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -780,8 +732,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedList/链表元素按奇偶聚集328.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="391">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/FilterLog.java" />
+    <entry file="file://$PROJECT_DIR$/src/hash/最长和谐序列594.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hash/存在重复元素217.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hash/两数之和为给定值01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/归并k个有序数组.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hash/最长连续序列128.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
