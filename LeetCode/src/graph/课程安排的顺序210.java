@@ -22,7 +22,7 @@ public class 课程安排的顺序210 {
         boolean[] localMarked = new boolean[numCourses];
         boolean[] globalMarked = new boolean[numCourses];
         for (int i = 0; i < numCourses; i++) {
-            if (hasCyclic(stack, i, graph, localMarked, globalMarked)) {
+            if (hasCycle(stack, i, graph, localMarked, globalMarked)) {
                 return new int[0];
             }
         }
@@ -33,7 +33,7 @@ public class 课程安排的顺序210 {
         return res;
     }
 
-    private boolean hasCyclic(Stack<Integer> stack, int start, List<Integer>[] graph, boolean[] localMarked, boolean[] globalMarked) {
+    private boolean hasCycle(Stack<Integer> stack, int start, List<Integer>[] graph, boolean[] localMarked, boolean[] globalMarked) {
         if (localMarked[start]) {
             return true;
         }
@@ -43,7 +43,7 @@ public class 课程安排的顺序210 {
         localMarked[start] = true;
         globalMarked[start] = true;
         for (int next : graph[start]) {
-            if (hasCyclic(stack, next, graph, localMarked, globalMarked)) {
+            if (hasCycle(stack, next, graph, localMarked, globalMarked)) {
                 return true;
             }
         }
