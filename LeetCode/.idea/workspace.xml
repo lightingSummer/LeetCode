@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f5aa8a34-4426-4726-a606-600cad3ef82b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/tree/二叉搜索树的最小绝对差530.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/tree/二叉搜索树的最小绝对差530.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,23 +15,15 @@
     <favorites_list name="LeetCode" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/likedQuestions/跳跃游戏055.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/likedQuestions/字母异位词049.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode143.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+            <state relative-caret-position="215">
+              <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/array/二维矩阵搜索240.java" />
         <option value="$PROJECT_DIR$/src/array/有序矩阵的KthElement378.java" />
         <option value="$PROJECT_DIR$/src/array/寻找集合错误的数645.java" />
         <option value="$PROJECT_DIR$/src/array/找出数组重复的元素442.java" />
@@ -112,6 +102,7 @@
         <option value="$PROJECT_DIR$/src/likedQuestions/旋转图像048.java" />
         <option value="$PROJECT_DIR$/src/likedQuestions/跳跃游戏055.java" />
         <option value="$PROJECT_DIR$/src/likedQuestions/字母异位词049.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LeetCode143.java" />
       </list>
     </option>
   </component>
@@ -145,20 +136,20 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="likedQuestions" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568017465995" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568693602468" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -173,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.缺失的第一个正数041">
+  <component name="RunManager" selected="Application.LeetCode143">
     <configuration name="前中后序遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.前中后序遍历" />
       <module name="LeetCode" />
@@ -226,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="嵌套数组565" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.嵌套数组565" />
+    <configuration name="LeetCode143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LeetCode143" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,19 +244,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.嵌套数组565" />
       <item itemvalue="Application.前中后序遍历" />
       <item itemvalue="Application.二叉搜索树的最小绝对差530" />
       <item itemvalue="Application.最长有效括号032" />
       <item itemvalue="Application.缺失的第一个正数041" />
+      <item itemvalue="Application.LeetCode143" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode143" />
         <item itemvalue="Application.缺失的第一个正数041" />
         <item itemvalue="Application.最长有效括号032" />
         <item itemvalue="Application.二叉搜索树的最小绝对差530" />
         <item itemvalue="Application.前中后序遍历" />
-        <item itemvalue="Application.嵌套数组565" />
       </list>
     </recent_temporary>
   </component>
@@ -330,12 +321,13 @@
       <workItem from="1564458226513" duration="15183000" />
       <workItem from="1564542393967" duration="9960000" />
       <workItem from="1566720060845" duration="671000" />
-      <workItem from="1567994427295" duration="9001000" />
+      <workItem from="1567994427295" duration="9178000" />
+      <workItem from="1568691672278" duration="1912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="389285000" />
+    <option name="totallyTimeSpent" value="391374000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -348,8 +340,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49835527" visible="true" weight="0.204236" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49835527" visible="true" weight="0.20726173" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -369,7 +362,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.34539473" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32894737" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32894737" />
-      <window_info anchor="bottom" id="Debug" order="13" weight="0.34539473" />
+      <window_info active="true" anchor="bottom" id="Debug" order="13" visible="true" weight="0.42105263" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -424,17 +417,22 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/LeetCode143.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/LeetCode143.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/array/有序矩阵的KthElement378.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/寻找集合错误的数645.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -842,16 +840,27 @@
     <entry file="file://$PROJECT_DIR$/src/likedQuestions/跳跃游戏055.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/likedQuestions/字母异位词049.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        <state relative-caret-position="337">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode143.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+          <folding>
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
           </folding>
         </state>
       </provider>
